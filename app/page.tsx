@@ -813,7 +813,7 @@ export default function LandingPage() {
         {/* Hero banner — mobile */}
         <div className="w-full md:hidden">
           <Image
-            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/headmobile-TOwp2I3tuAt81xuV053kGrX6Sv4j5F.webp"
+            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/headmobile-jdhESBnilSWu0PXEDXCwnAwmKgOcYQ.webp"
             alt="Smart Ilha — Lançamentos 2026 Microwear, Os Novos Series 11"
             width={900}
             height={1400}
